@@ -1,1 +1,1 @@
-# Self-Supervised-Learning
+# Codes for some Self-Supervised Learning frameworks
